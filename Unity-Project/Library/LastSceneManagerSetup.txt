@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/scenes/selfpresence_testing_scene_v2.unity
+  isLoaded: 1
+  isActive: 1

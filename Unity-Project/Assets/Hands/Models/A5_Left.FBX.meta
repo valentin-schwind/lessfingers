@@ -1,0 +1,123 @@
+fileFormatVersion: 2
+guid: 9493668db0918bf4793dfb801106bf92
+timeCreated: 1482580956
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 5L_Hand_A
+    100002: //RootNode
+    100004: L_Forearm_01
+    100006: L_Forearm_02
+    100008: L_Forearm_03
+    100010: L_Forearm_04
+    100012: L_Forearm_05
+    100014: L_Forearm_meta
+    100016: L_index_01
+    100018: L_index_02
+    100020: L_index_meta
+    100022: L_middle_01
+    100024: L_middle_02
+    100026: L_middle_meta
+    100028: L_Palm
+    100030: L_pinky_01
+    100032: L_pinky_02
+    100034: L_pinky_meta
+    100036: L_ring_01
+    100038: L_ring_02
+    100040: L_ring_meta
+    100042: L_thumb_01
+    100044: L_thumb_02
+    100046: L_thumb_meta
+    400000: 5L_Hand_A
+    400002: //RootNode
+    400004: L_Forearm_01
+    400006: L_Forearm_02
+    400008: L_Forearm_03
+    400010: L_Forearm_04
+    400012: L_Forearm_05
+    400014: L_Forearm_meta
+    400016: L_index_01
+    400018: L_index_02
+    400020: L_index_meta
+    400022: L_middle_01
+    400024: L_middle_02
+    400026: L_middle_meta
+    400028: L_Palm
+    400030: L_pinky_01
+    400032: L_pinky_02
+    400034: L_pinky_meta
+    400036: L_ring_01
+    400038: L_ring_02
+    400040: L_ring_meta
+    400042: L_thumb_01
+    400044: L_thumb_02
+    400046: L_thumb_meta
+    4300000: 5L_Hand_A
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: 5L_Hand_A
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
